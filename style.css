@@ -27,7 +27,7 @@ img {
 }
 
 .title::before {
-    content: url(../images/title-image.png);
+    content: url(https://github.com/sumie33/portforio/blob/main/title-image.png?raw=true);
     position:absolute;
     top: -55%;
     pointer-events: none;
@@ -119,7 +119,7 @@ h1 {
 }
 
 .main-works::after {
-    content: url(../images/works-image.png);
+    content: url(https://github.com/sumie33/portforio/blob/main/works-image.png?raw=true);
     position:absolute;
     top: 100px;
     pointer-events: none;
@@ -140,7 +140,8 @@ h1 {
 }
 
 .main-about::after {
-    content: url(../images/port-photo.png);
+    content: url(https://github.com/sumie33/portforio/blob/main/port-photo.png?raw=true
+);
     transform: scale(0.3);
     position: absolute;
     z-index: -1;
@@ -306,7 +307,7 @@ footer p {
     }
     
     .title::before {
-        content: url(../images/title-responsiveimage.png);
+        content: url(https://github.com/sumie33/portforio/blob/main/title-responsiveimage.png?raw=true);
     }
 
     
@@ -338,7 +339,7 @@ footer p {
     /*WORKS-------------------------*/
 
     .main-works::after {
-        content: url(../images/works-responsiveimage.png);
+        content: url(../images/works-responsiveimage.png　https://github.com/sumie33/portforio/blob/main/works-responsiveimage.png?raw=true);
         top: 430px;
     }
 
