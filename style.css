@@ -339,7 +339,7 @@ footer p {
     /*WORKS-------------------------*/
 
     .main-works::after {
-        content: url(../images/works-responsiveimage.png　https://github.com/sumie33/portforio/blob/main/works-responsiveimage.png?raw=true);
+        content: url(https://github.com/sumie33/portforio/blob/main/works-responsiveimage.png?raw=true);
         top: 430px;
     }
 
